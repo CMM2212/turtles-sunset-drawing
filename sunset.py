@@ -6,14 +6,12 @@
 # Assignment 07
 #############################################
 import turtle
-import time
 
 # Create the turtle window and turtle instance
 window = turtle.Screen()
 window.setup(1084, 570)
 alex = turtle.Turtle()
 
-time.sleep(4)
 turtle.colormode(255)
 alex.speed(0)
 
